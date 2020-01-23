@@ -3,6 +3,11 @@
 ### Input
 [New Unity Input System (youtube)](https://youtu.be/zIhtPSX8hqA)
 
+### UI
+[Use UI in multiple scenes (youtube)](https://www.youtube.com/watch?v=6ztY9-IX3Qg)
+* Covers additive scene loading which could be useful for other things, e.g. a Boarderlands style inventory screen, or showing a vehicle or building interior 
+
+
 ### Movement
 
 ### Mesh Combiner

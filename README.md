@@ -20,4 +20,5 @@ https://assetstore.unity.com/publishers/5217
 
 ## Procedural Generation
 
-
+### Protips
+* Combine meshes when possible to reduce the number of render calls made each frame

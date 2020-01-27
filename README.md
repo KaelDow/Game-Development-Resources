@@ -17,6 +17,7 @@ https://docs.unity3d.com/Manual/UnityManual.html
 * Covers additive scene loading which could be useful for other things, e.g. a Boarderlands style inventory screen, or showing a vehicle or building interior 
 
 ### Movement
+[FIRST PERSON MOVEMENT in Unity - FPS Controller](https://www.youtube.com/watch?v=_QajrabyTJc&t=70s)
 
 ### Mesh Combiner
 

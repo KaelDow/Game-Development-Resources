@@ -11,6 +11,7 @@ https://docs.unity3d.com/Manual/UnityManual.html
 ## Unity Tutorials
 ### Input
 [New Unity Input System (youtube)](https://youtu.be/zIhtPSX8hqA)
+https://www.youtube.com/watch?v=Pzd8NhcRzVo
 
 ### UI
 [Use UI in multiple scenes (youtube)](https://www.youtube.com/watch?v=6ztY9-IX3Qg)

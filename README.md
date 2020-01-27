@@ -23,10 +23,13 @@ https://docs.unity3d.com/Manual/UnityManual.html
 ## Blender Tutorials
 
 ## Assets
-
+### 3D models
 http://devassets.com/ (pay what you want)
 
-https://assetstore.unity.com/publishers/5217
+[Synty Studios Unity Assetstore (low poly, paid)](https://assetstore.unity.com/publishers/5217)
+
+### Music
+https://www.freemusicarchive.org/search
 
 ## Procedural Generation
 

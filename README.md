@@ -11,7 +11,10 @@ https://docs.unity3d.com/Manual/UnityManual.html
 ## Unity Tutorials
 ### Input
 [New Unity Input System (youtube)](https://youtu.be/zIhtPSX8hqA)
+
 https://www.youtube.com/watch?v=Pzd8NhcRzVo
+
+[Converting your game to DOTS - Unite Copenhagen](https://www.youtube.com/watch?v=BNMrevfB6Q0)
 
 ### UI
 [Use UI in multiple scenes (youtube)](https://www.youtube.com/watch?v=6ztY9-IX3Qg)

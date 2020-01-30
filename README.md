@@ -33,6 +33,8 @@ https://www.youtube.com/watch?v=BNMrevfB6Q0
 
 ## Blender Tutorials
 
+[Rigging](https://www.youtube.com/watch?v=srpOeu9UUBU)
+
 ## Assets
 ### 3D models
 http://devassets.com/ (pay what you want)

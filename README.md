@@ -12,6 +12,14 @@ https://docs.unity3d.com/Manual/UnityManual.html
 ### Input
 [New Unity Input System (youtube)](https://youtu.be/zIhtPSX8hqA)
 
+Add the [Serializable] attribute and the ScriptableObject base class to the generated class
+e.g.
+```
+[Serializable]
+public class @Controls : ScriptableObject, IInputActionCollection, IDisposable
+```
+
+
 https://www.youtube.com/watch?v=Pzd8NhcRzVo
 
 [Converting your game to DOTS - Unite Copenhagen](https://www.youtube.com/watch?v=BNMrevfB6Q0)

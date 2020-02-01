@@ -12,11 +12,14 @@ https://docs.unity3d.com/Manual/UnityManual.html
 ### Input
 [New Unity Input System (youtube)](https://youtu.be/zIhtPSX8hqA)
 
-Add the [Serializable] attribute and the ScriptableObject base class to the generated class
-e.g.
+Do not drag the controls class into the attached script, instead do this
 ```
-[Serializable]
-public class @Controls : ScriptableObject, IInputActionCollection, IDisposable
+    private Controls _controls;
+
+    void Awake()
+    {
+        _controls = new Controls();
+    }
 ```
 
 

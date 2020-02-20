@@ -44,6 +44,8 @@ https://www.youtube.com/watch?v=BNMrevfB6Q0
 ### Animating a Character
 https://unity3d.com/how-to/turn-character-into-player
 
+### Editor Scripts
+https://www.youtube.com/watch?v=WP-Bm65Q-1Y&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3&index=2
 
 ## Blender Tutorials
 

@@ -5,6 +5,8 @@
 https://docs.unity3d.com/Manual/UnityManual.html
 ### Blender
 
+https://www.youtube.com/watch?v=dclA9iwZB_s How Great First-Person Animations are Made - 10 Tips for Animating FPS Characters/Weapons in Blender
+
 ### paint.net
 
 
@@ -69,3 +71,4 @@ https://www.redblobgames.com/grids/hexagons/
 
 ### Protips
 * Combine meshes when possible to reduce the number of render calls made each frame
+* For an FPS use two cameras, one for everything the player can see of themselves/their equipment and a second that allows the player to change their FOV without making the stuff in the first camera look wonky

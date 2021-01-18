@@ -3,8 +3,9 @@
 ## Software
 ### Unity
 https://docs.unity3d.com/Manual/UnityManual.html
-### Blender
 
+### Blender
+https://www.youtube.com/watch?v=1jHUY3qoBu8 Learn Low Poly Modeling
 https://www.youtube.com/watch?v=dclA9iwZB_s How Great First-Person Animations are Made - 10 Tips for Animating FPS Characters/Weapons in Blender
 
 ### paint.net

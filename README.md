@@ -40,6 +40,9 @@ https://www.youtube.com/watch?v=Pzd8NhcRzVo
 ### Camera
 https://unity.com/unity/features/editor/art-and-design/cinemachine
 
+### Text
+TextMesh Pro
+
 ### Level creation
 
 unity pro builder
